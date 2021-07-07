@@ -1,13 +1,13 @@
 # Flutters
-
+<!-- 
 [![License: MIT](https://img.shields.io/github/license/ecklf/flutters.svg)](https://opensource.org/licenses/MIT)
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ecklf/flutters.svg">
 [![Powered by Flame](https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg)](https://flame-engine.org)
-<img alt="GitHub top language" src="https://img.shields.io/badge/Made%20with-Flutter-blue.svg">
+<img alt="GitHub top language" src="https://img.shields.io/badge/Made%20with-Flutter-blue.svg"> -->
 
 ## About
 
-**Flutters** is a demo game powered by [Flutter](https://www.flutter.dev) and [Flame](https://flame-engine.org/). I wrote it to test out its performance and gaming capabilities and decided to open source it, so you can learn to _flutter_ aswell.
+**Pixels Birds game** is a demo game powered by [Flutter](https://www.flutter.dev) and [Flame](https://flame-engine.org/). I wrote it to test out its performance and gaming capabilities and decided to open source it, so you can learn to _flutter_ aswell.
 
 ### Why is a Flutter Game awesome?
 
@@ -20,6 +20,9 @@
 <img height="600" width="auto" src="screenshot.png" />
 </p>
 
+![Simulator Screen Shot - iPhone 12 - 2021-07-07 at 18 01 33](https://user-images.githubusercontent.com/80456446/124807445-9eb50180-df12-11eb-9ff1-2740b79b0ee5.png)
+
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -29,7 +32,7 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
+<!-- 
 ## Special Thanks
 
 - Flutter and Flame Discord community
@@ -38,4 +41,4 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-# Flutter-Bird-Game
+# Flutter-Bird-Game -->
