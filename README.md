@@ -1,11 +1,11 @@
-# Flutters
+# Pixels Bird Game
 <!-- 
 [![License: MIT](https://img.shields.io/github/license/ecklf/flutters.svg)](https://opensource.org/licenses/MIT)
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ecklf/flutters.svg">
 [![Powered by Flame](https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg)](https://flame-engine.org)
 <img alt="GitHub top language" src="https://img.shields.io/badge/Made%20with-Flutter-blue.svg"> -->
 
-## About
+## Description
 
 **Pixels Birds game** is a demo game powered by [Flutter](https://www.flutter.dev) and [Flame](https://flame-engine.org/). I wrote it to test out its performance and gaming capabilities and decided to open source it, so you can learn to _flutter_ aswell.
 
